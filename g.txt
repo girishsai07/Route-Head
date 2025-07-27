@@ -1,0 +1,94 @@
+39 53
+0 1 80 east west
+1 2 350 east west
+2 3 400 west east
+3 4 280 north south
+4 5 100 north south
+6 10 50 north south
+6 7 35 north south
+7 8 37 north south
+8 32 110 west east
+2 29 180 north south
+8 9 47 north-west south-east
+6 26 40 east west
+26 23 67 north south
+23 22 50 north south
+22 19 60 north-east south-west
+26 27 110 south north
+27 28 250 north-east south-west
+27 29 110 south  north
+29 5 100 west east
+28 24 210 east west
+24 21 70 north-east south-west
+24 25 250 south-east north-west
+21 19 290 west east
+20 19 200 south-west north-east
+33 18 110 north-west south-east
+33 19 40 east west
+33 22 20 north south
+18 17 75 west east
+23 28 100 east west
+26 28 120 north-east south-west
+24 23 300 south-west south-east
+11 17 350 north south
+11 34 53 north south
+34 10 53 east west
+12 11 100 north south
+11 16 180 west east
+13 16 100 north south
+35 12 50 north south
+13 35 190 south-east north-west
+12 36 110 south north
+36 30 76 west east
+36 37 63 south north
+37 31 84 west east
+13 14 150 south-west north-east
+14 15 160 south-west north-east
+32 11 150 south north
+22 9  22 west east
+17 32 60 south north
+32 9  25 west east 
+5 35 110 west east
+3 38 140 west east
+38 37 150 north south
+6 34 80 west east
+
+sap_college 0
+ac_tech_college 1
+ac_tech_canteen 2
+main_gate 3
+anna_statue 4
+red_building 5
+s&h 6
+cs_department 7
+it_department 8
+knowledge_park 9
+ece_department 10
+ncc_building 11
+eee_department 12
+tag_audi 13
+mechanical_department 14
+thazham 15
+ceg_canteen 16
+international_hostels 17
+gurunath 18
+senior_mess 19
+hostel_office 20
+health_center 21
+ceg_tech_forum 22
+alumni_center 23
+cuic 24
+kottur_gate 25
+chemistry_department 26
+vivek_audi 27
+ground 28
+sbi 29
+civil_department 30
+acoe 31
+coffee_hut 32
+mess_road 33
+physics_department 34
+eee_junction 35
+civil_road 36
+guest_house_road 37
+parking 38
